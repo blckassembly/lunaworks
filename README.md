@@ -17,6 +17,7 @@ Lunaworks is a body of mechanical and aerospace engineering design work — 5,00
 | [Container Hospital](systems/container-hospital/) | Two-story modular field hospital from 40-ft containers | Solar leaf array power; covered triage intake |
 | [EM Propulsion](systems/em-propulsion/) | Field-dominant electromagnetic propulsion concept | Charged-mass stream through field geometry control rings |
 | [Alumni Truck](systems/alumni-truck/) | Boxy X-brace frame EV truck concept | Exposed structural X-brace doors; bolted panel construction |
+| [AMBIGUITY™-ARM](systems/ambiguity-arm/) | Large-format additive manufacturing cell — 6-axis deposition head on a 42 ft column / 80 ft gantry | Prints 15–25 ft UAV airframes in CF-PEEK with continuous fiber, 8–12 hrs per frame |
 
 ## Design doctrine
 
